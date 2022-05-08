@@ -1,0 +1,2 @@
+Great! This is a word cloud program. This will print all the words into a image. Words will have different word sizes depending upon the frequency of the word in the text file.
+Lets see how it works. Python uses a module for this known as word cloud!
